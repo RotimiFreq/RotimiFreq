@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RotimiFreq
+- 👋 Hi, I’m Oluwarotimi
 - 👀 I’m interested  opensource project and web application development
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
